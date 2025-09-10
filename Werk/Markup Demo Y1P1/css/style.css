@@ -13,3 +13,9 @@ h3 {
 p {
     font-size: 12px;
 }
+.emphasis {
+    font-weight: bold;
+}
+.italic {
+    font-style: italic;
+}
